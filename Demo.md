@@ -1,0 +1,1 @@
+&lt;wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/118008740609451236976/helloworld.xml" border="0" width="430" height="350"&gt;
